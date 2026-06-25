@@ -1,6 +1,6 @@
 (for English check below)
 
-Nacházíte se na úložišti doprovázející knihu o funkcionální analýze a jejím využití ve zpracování signálu. Monografie je psána česky a vyšla v roce 2024 v nakladatelství VUTIUM. Kniha je pouze elektronická a je možné ji zakoupit na [palmknihy](https://www.palmknihy.cz/ekniha/moderni-funkcionalni-analyza-s-aplikacemi-ve-zpracovani-signalu-415668).
+Nacházíte se na úložišti doprovázející knihu o funkcionální analýze a jejím využití ve zpracování signálu. Monografie je psána česky a vyšla v roce 2024 v nakladatelství [VUTIUM](https://www.vut.cz/vutium/katalog?action=detail&id=19265). Kniha je pouze elektronická a je možné ji zakoupit přes [Luxor](https://www.luxor.cz/v/2120913/moderni-funkcionalni-analyza-s-aplikacemi-ve-zpracovani-signalu).
 
 Repozitář obsahuje zejména skripty pro Matlab reprodukující a doplňující příklady a ukázky z knihy.
 
@@ -8,7 +8,7 @@ Repozitář obsahuje zejména skripty pro Matlab reprodukující a doplňující
 
 -------------------
 
-This is a repository accompanying the book on functional analysis and signal processing. The monography is written in Czech. The book was published in 2024 by VUTIUM. The book is in electronic form only and it can be purchased at [palmknihy](https://www.palmknihy.cz/ekniha/moderni-funkcionalni-analyza-s-aplikacemi-ve-zpracovani-signalu-415668).
+This is a repository accompanying the book on functional analysis and signal processing. The monography is written in Czech. The book was published in 2024 by [VUTIUM](https://www.vut.cz/vutium/katalog?action=detail&id=19265). The book is in electronic form only and it can be purchased at [Luxor](https://www.luxor.cz/v/2120913/moderni-funkcionalni-analyza-s-aplikacemi-ve-zpracovani-signalu).
 
 The repository mainly contains Matlab files reproducing and augmenting some examples from the book.
 
